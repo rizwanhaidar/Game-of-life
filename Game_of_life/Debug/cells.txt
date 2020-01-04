@@ -1,0 +1,35 @@
+
+Orignal Generation
+x = 4 y = 2 Value = 0
+x = 1 y = 2 Value = 0
+x = 3 y = 4 Value = 1
+x = 4 y = 2 Value = 0
+
+
+Generation No 1
+x = 4 y = 2 Value = 0
+x = 1 y = 2 Value = 1
+x = 3 y = 4 Value = 0
+x = 4 y = 2 Value = 0
+
+
+Generation No 2
+x = 4 y = 2 Value = 0
+x = 1 y = 2 Value = 1
+x = 3 y = 4 Value = 0
+x = 4 y = 2 Value = 0
+
+
+Generation No 3
+x = 4 y = 2 Value = 0
+x = 1 y = 2 Value = 0
+x = 3 y = 4 Value = 0
+x = 4 y = 2 Value = 0
+
+
+Generation No 4
+x = 4 y = 2 Value = 0
+x = 1 y = 2 Value = 0
+x = 3 y = 4 Value = 0
+x = 4 y = 2 Value = 0
+

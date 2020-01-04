@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\rizwa\source\repos\Game_of_life\Debug\Test-1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="T1.Print" Duration="1" />
+    <TestDuration Test="T2.value_check" Duration="1" />
+    <TestDuration Test="T3.aux_array" Duration="1" />
+    <TestDuration Test="T4.UnInit_Array" Duration="1" />
+    <TestDuration Test="T5.FIle_handling" Duration="4" />
+  </TestDurations>
+</GtaTestDurations>
